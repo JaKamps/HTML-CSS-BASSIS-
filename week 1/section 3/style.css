@@ -34,7 +34,6 @@ h6{
 }
 
 .mainbody{
-	width: 1140px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -48,10 +47,30 @@ h6{
 	margin-top: auto;
 }
 .author{
+	border-top: 1px solid rgb(146, 144, 144);
 	padding-top: 10px;
-	margin-top: 50px;
+	margin-bottom: 50px;
 }
-h11 {
+.sidebar{
+  width: 25%;
+  float: right;
+  color: green;
+}
+.maintext2{
+	width: 75%;
+	float: left;
+}
+h11{
 	float: right;
-	margin-top: 5px;
+}
+h12{
+	font-size: 50px;
+	color: rgb(29, 211, 23);
+}
+h13{
+	font-size: 30px;
+	color: red;
+}
+p1{
+	color: rgb(74, 163, 74);
 }
