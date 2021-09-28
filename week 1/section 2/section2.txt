@@ -1,0 +1,7 @@
+1.<HTML>
+2.de head is de header dat is informatie over de pagina and de body is de pagina en wat er in staat
+3.a HTML-tag is iets dat het bestand beschrijft so als hoofdstuken text of links
+4. een  atribute geeft meer informatie over een element
+5.src  source
+6. <img>
+7.een interne link is op de zelfde website en een externe ga je naar een andere website to
