@@ -74,3 +74,61 @@ h13{
 p1{
 	color: rgb(74, 163, 74);
 }
+.block1{
+	background-color: yellow;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block2{
+	background-color: red;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block3{
+	background-color: blue;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block4{
+	background-color: green;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block5{
+    background-color: whitesmoke;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block6{
+	background-color: purple;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block7{
+	background-color: gray;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block8{
+	background-color: hotpink;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block9{
+	background-color: orange;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+h14, h15, h16, h17, h18, h19, h20, h21, h22{
+	color: black;
+	margin-left: 45%;
+}

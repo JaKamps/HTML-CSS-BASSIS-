@@ -19,3 +19,9 @@ h1, h2 {
 15.CSS Inheritance is het standaard value dat een elemente heeft alse je het niet aan geeft so als de box om elementen heen als je die niet aan past neemt alles het standard value aan
 16.een block line emelent is een element dat het hele breedte als de pagina in beslag en een inline element doet dat niet maar je kan ook niet de groote of breedte aan passes
 17.a div element kan je een class aan maken voor een group van elementen, je kan het gebruiken om stukken text/pictures aan een bepaalde kant te zetten of de boxes van een group elementen aan te passen of om float terug tezetten
+
+
+ontwekkelaarsopdracht
+1. 0, 0, 139
+2. 0, 0, 139, 1
+3. 
