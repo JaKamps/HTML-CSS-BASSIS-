@@ -103,6 +103,7 @@ p1{
 	float: left;
     padding-block: 140px;
 	width: 33%;
+	color: black;
 }
 .block6{
 	background-color: purple;
@@ -131,4 +132,7 @@ p1{
 h14, h15, h16, h17, h18, h19, h20, h21, h22{
 	color: black;
 	margin-left: 45%;
+}
+.block5 a{
+	margin-left: 45%
 }

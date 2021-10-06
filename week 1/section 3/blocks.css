@@ -1,0 +1,79 @@
+.block1{
+	background-color: yellow;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block2{
+	background-color: red;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block3{
+	background-color: blue;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block4{
+	background-color:rgb(82,175,141);
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block5{
+    background-color: rgb(102,205,170);
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block6{
+	background-color: purple;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block7{
+	background-color: gray;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block8{
+	background-color: hotpink;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+.block9{
+	background-color: orange;
+	float: left;
+    padding-block: 140px;
+	width: 33%;
+}
+h14, h15, h16, h17, h18, h19, h20, h21, h22{
+	color: black;
+	margin-left: 45%;
+}
+h18, h23, h24{
+	color: black;
+	font-size: smaller;
+}
+h23{
+	position: absolute;
+	top: 50%;
+	left: 47.8%;
+}
+h24{
+	position: absolute;
+	top: 75%;
+	left: 47.8%;
+}
+h17{
+	color: darkslategray;
+}
+.block6 a{
+	margin-left: 45%;
+	color: black;
+}
