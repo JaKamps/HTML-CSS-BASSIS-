@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+  }
+  
+.flex-container .first .second {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+    min-width: 50%;
+
+  }
+  
+.flex-item-1 {
+    background-color: green;
+    padding: 10px;
+    flex: 12.5%;
+  }
+  
+.flex-item-2 {
+    background-color: yellow;
+    padding: 10px;
+    flex: 12.5%;
+  }
+  
+  .flex-item-3 {
+    background-color: red;
+    padding: 10px;
+    flex: 12.5%;
+  }
+  .flex-item-4 {
+    background-color: blue;
+    padding: 10px;
+    flex: 12.5%;
+  }
+  
+  /* Responsive layout - makes a one column layout instead of a two-column layout */
+  @media (max-width: 800px) {
+    .flex-container .first .second {
+      flex-wrap: wrap;
+      flex-direction: row;
+    }
+  }
+
+@media (max-width: 500px) {
+    .flex-container {
+      flex-direction: column;
+
+    }
+  }

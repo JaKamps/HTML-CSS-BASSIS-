@@ -1,0 +1,26 @@
+1. bedenken waar je de website voor wilt gebruiken
+wie je website gaat bezoeken
+2.performance is hoe het werk
+3. een responsive webdesign is alse je naar optimale ervaring om meerdere beeld grootes strijft
+4. fluid grid everything in percentages instead of pixels, flexible images, media queries specific style rules per browser widths
+5. de main element is het belangerijkste inhoud gedeelte van <body>
+6. de header element word gebruikt om informatie over het hele pagina gaat zo als titels
+7. #ff0000 color: #ff0000;, color: rgb 0,0,0;, color: black;,
+8. een inline element is een element dat niet het hele breedte bezet, een block-element neemt de hele breedte in, en een inline-block element is een block element dat you gebruikt als een inline element of een inline element dat je gebruikt als een block element
+9. een comment is een beschrijving in de code dat niet als code word gezien en alleen voor codeurs is om te weten wat wat doet
+10. /* hi */   <!-- voor html --!>
+11. het float element zorgt er voor dat een element aan het aangeven kant zweeft
+12. een pseudo class word gebruikt om verschilende style te kunnen gebruiken bij bepaalde voor waarden zo als bij google als je op een link drukt en dan weer terug gaat is de link blauw
+13. scalable vector graphics een svg is om afbeeldingen makelijk van grote te kunnen veranderen
+14. paddin is de ruimte tussen het content en de randen van de box
+15. de margin is het ruimte tussen andere elementen
+16. de padding is in het element en de margin is buiten het element
+17. 0rem
+18. het bepaalt wat er moet gebeuren als de content out de box gaat bijvoorbeeld dat het er in blijft en dat je er in can scrollen of dat het afsnijd
+19. relatieve waardens zijn afhankelijk van andere waardes
+20. absoluute waardens zijn absoluut en blijven op zijn positie staan
+21. relative want als je op een andere groote beeld kijk blijft het op een relative waarde staan
+22. een fomulier in html is waar je je password in typt of gewoon text of files de tag is <form>  </form>
+23. je kan het andersom doen maar dan kan je niet zien wat je moet aanpassen
+24.de footer is het onderste gedeelte meestal voor bron vergeven of contact informatie of het terug gaan naar het begin
+25. <footer>
