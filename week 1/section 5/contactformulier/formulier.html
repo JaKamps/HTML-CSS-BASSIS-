@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="resources\CSS\Formulier.css">
+    <title>Fomulier</title>
+    <link rel="shortcut icon" type="image/jpg" href="resources\img\favicon-32x32.png"
+</head>
+<body>
+    <div class="top">
+    </div>
+    <div class="form">
+        <h1>Contactformulier</h1>
+        <form>
+            <label id="br" for="naam">Naam:</label>
+            <input type="text" id="naam" name="naam"><br>
+            <label id="br" for="Email">Email:</label>
+            <input type="email" id="Email" name="Email"><br>
+            <label id="br" for="password">Wachtword:</label>
+            <input type="password" id="password" name="password"><br>
+            <label id="br" for="modules">Geslacht:</label>
+                <select name="modules" id="modules" style="width: 170px;">
+                    <option value="A4">Man</option>
+                    <option value="A8">Vrouw</option>
+                    <option value="B1" selected>Anders</option>>
+                </select><br>
+                    <label id="br" for="Media">Media:</label>
+                    <input type="radio" name="Media" value="nieuwsbrief" id="brief">
+                    <label for="brief">nieuwsbrief</label><br>
+                    <label id="br" class="hide">hide</label>
+                    <input type="radio" name="Media" value="Mailing" id="Mail">
+                    <label for="Mail">Mail</label><br>
+                    <label id="br" class="hide">hide</label>
+                    <input type="radio" name="Media" value="post" id="post">
+                    <label for="post">post</label><br>
+                    <input class="submit" type="submit" value="Stuur me op!">
+        </form>
+    </div>
+</body>
+</html>

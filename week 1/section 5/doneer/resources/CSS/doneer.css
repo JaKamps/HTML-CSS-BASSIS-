@@ -1,0 +1,14 @@
+* {
+    color: orange;
+    letter-spacing: 20px;
+    text-justify: auto;
+}
+.doneer {
+    width: 50%;
+    float: left;
+}
+.bescherm {
+    width: 50%;
+    float: right;
+    
+}
