@@ -1,0 +1,36 @@
+.body {
+  position: relative;
+  margin: auto; 
+  background-image: url(img/ca_tanzania_lions.jpg);
+  width: 100%;
+  height: 50vh;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: aqua;
+  background-color: rgb(43, 161, 39);
+  position: absolute;
+  text-align: right;
+  bottom: 0px;
+  right: 0px;
+  font-size: smaller;
+  padding-bottom: 0px;
+}
+.no:link {
+  text-decoration: none;
+ }
+  
+.no:visited {
+  text-decoration: none;
+}
+  
+.no:hover {
+  background-color: greenyellow;
+}
+  
+.no:active {
+  text-decoration: underline;
+}
+
+

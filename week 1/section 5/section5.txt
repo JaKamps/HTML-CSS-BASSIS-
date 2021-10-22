@@ -36,3 +36,19 @@ Ontwikkelaars opdrachten
 7. het element van div content 2 is een inline element so de roode lijn komt in het midden van het element, het H2 element is een block element en is even wijd als het scherm zo de rode lijn komt in het midden van het scherm in het element
 8. @import verbind meerdere stylesheets je kan verschillende iconen verbinden met je stylesheet om die dan te kunnen gebruiken
 9. ik test tijdens ik een onderdeel maak en dan kijk ik of het werkt/ goed er uitziet op de website en ik denk dat dat well goed is zo dat er minder kans is dat je alles weer opnieuw moet doen omdat het toch niet werkten?
+
+=====================================
+vaardigheidsopdracht
+1.<link href='https://fonts.googleapis.com/css?family=Mukta Malar' rel='stylesheet'>
+font-family: 'Mukta Malar';font-size: 22px;
+2.Media queries kijkt wat voor aperaat naar de webite kijkt en kan daarvan bepalen wat er moet gebeuren
+zo als per scherm breedte aldere CSS code gebruiken zo dat het er nog steeds goed uit ziet
+3.
+4.
+5.
+6. text-transform: uppercase
+7. text-transform: lowercase
+8.
+9.
+10. voor geen lijn onder de link gebruik:  .no:link { text-decoration: none; }
+voor achtergrond kleur gebruik; .no:hover { background-color: greenyellow; }
