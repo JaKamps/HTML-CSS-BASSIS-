@@ -1,0 +1,6 @@
+1. media queries zijn vragen over de media zo als hoe groot het scherm is
+2. met media queries kan je de pagina veranderen per beeldscherm groote zo je kan de pagina indeling voor mobile anders maken dan pc so dat het er redelijk uit ziet zelfs op een klijnere scherm
+3.all browsers dat webkit hebben als prefix krijgen de kleur rood als actergrond
+4. alle browsers dat moz heeft als prefix krijgt een font size van 2rem
+5. soms kan je alleen dingen tegen komen als je het test
+bijvoorbeeld als je een betalings forum heb maar als je het klicked word er betaals maar krijg je niks er door. of als mensen in kunnen loggen zonder wachtwoord. of als de website er niet uit ziet in andere webbrowsers

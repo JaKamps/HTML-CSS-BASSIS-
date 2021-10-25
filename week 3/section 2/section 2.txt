@@ -1,0 +1,10 @@
+1.
+2. de links boven hoek van zijn parent
+3. @keyframe is een animeerings code
+4. je kan iets bewegen van de eene kant naar de andere of achtergrond kleuren veranderen
+5. een pseudo selector kan een bepaalde staat eits laten doen
+6. zo als :hover als je je muis er over houd dan kan je het blauw latten worden, :active als je er op drukt dan veranders hij van kleur of eits anders, :visited als je er all bent geweest dan word het een andere kleur zo als google doet of iets anders
+7. rood
+8. blauw
+9. text align specificeert of het van rechts naar link of van links naar richts als center punt neemt maar ook andere zo als center
+10. als je er op klicked en het activeerts zo als een button als je er op clicked activeert het
