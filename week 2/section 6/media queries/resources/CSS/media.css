@@ -1,25 +1,51 @@
-@media screen and (max-width : 480px) {
-    body {
+@media screen and (min-width: 0px) and (max-width : 480px) {
+    .back {
         background-color: blue;
+        position: relative;
+        top: 10%;
+        left: 10%;
+        width: 80%;
+        height: 90vh;
     }
 }
 
-@media screen and (max-width: 768px) {
-    body{
+@media screen and (min-width: 480px) and (max-width: 768px) {
+    .back{
         background-color: green;
+        position: relative;
+        top: 10%;
+        left: 10%;
+        width: 80%;
+        height: 90vh;
     }
 }
 
-@media screen and (max-width: 1024px) {
-    body {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .back {
         background-color: yellow;
+        position: relative;
+        top: 10%;
+        left: 10%;
+        width: 80%;
+        height: 90vh;
     }
 }
 
-@media screen and (max-width: 1200px) {
-    body {
+@media screen and (min-width: 1024px) {
+    .back {
         background-color: red;
+        position: relative;
+        top: 10%;
+        left: 10%;
+        width: 80%;
+        height: 90vh;
     }
 }
 
-
+/*.back {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: 50vh;
+} */

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+.head {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(img/haunted-castle-halloween-microsoft-teams-background.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: polygon(0% 0%, 0% 100%, 79% 100%, 78% 46%, 85% 46%, 85% 63%, 78% 63%, 75% 100%, 100% 100%, 100% 8%);
+}

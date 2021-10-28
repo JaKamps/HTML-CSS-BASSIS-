@@ -1,0 +1,22 @@
+.main {
+    background-color: yellow;
+    height: 300px;
+}
+.first-main {
+    background-color: blue;
+}
+div.first-main#first-div {
+    background-color: red;
+}
+#first-main {
+    background-color: green;
+    height: 35px;
+}
+.first-main#first-main {
+    background-color: purple;
+    height: 500px;
+}
+.first-main.second-main.third-main.fourth-main {
+    background-color: aqua;
+    border: 3px solid black;
+}
