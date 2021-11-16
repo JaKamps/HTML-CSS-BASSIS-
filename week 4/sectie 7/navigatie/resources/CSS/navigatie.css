@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.navi{
+  background-color: greenyellow;
+  display: flex;
+}
+
+.first, .second{
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+  border: solid 1px black;
+}
+
+.first {
+  flex-grow: 1;
+}
+
+@media screen and (max-width: 650px) {
+  .navi{
+    flex-wrap: wrap;
+  }
+  .second {
+    flex-grow: 1;
+  }
+  .first{
+    flex-grow: 1;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navi{
+    flex-direction: column;
+    -ms-flex-align: center;
+  }
+  .first{
+    flex-grow: 1;
+  }
+  .second{
+    flex-grow: 1;
+  }
+}

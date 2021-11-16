@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .container1 {
+    float: left;
+    width: 50%;
+    display: flex;
+    background-color: #FFC0CB;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .container2 {
+    float: right;
+    width: 50%;
+    display: flex;
+    background-color: #FFC0CB;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .item {
+    padding: 5px;
+    border: dashed 1px #73A5C6;
+    height: 70px;
+    margin: 2px;
+  }
+  
+   #titel{
+    padding: 5px;
+    background-color: #ff1695;
+  }
+  

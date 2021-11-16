@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="resources/CSS/flexsheet.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media</title>
+</head>
+<body>
+    <h1>Flexbox</h1>
+
+    <div class="container1">
+      <div class=item>container properties</div>
+      <div class=item><p id=titel>//create a flexbox</p>
+        <p id=text>display: flexbox;</p></div>
+      
+      <div class=item><p id= titel>//direction, establishes main-axis</p>
+        <p>flex-direction: row || row-reverse || column || collumn-reverse</p></div>
+      
+      <div class=item><p id=titel>//to wrap or not to wrap</p>
+        <p>flex-wrap: nowrap || wrap || wrap-reverse</p></div>
+      <div class=item><p id= titel>//shorthanded (direction wrap)</p>
+        <p>flex-flow: flex-direction flex-wrap</p></div>
+      <div class=item><p id=titel>Alignment main axis</p>
+        <p>align-items: stretch || flex-start || flex-end || center || baseline</p></div>
+      <div class=item><p id=titel>Alignment cross axis</p>
+        <p>justify-content: flex-start || flex-end || center || baseline</p></div>
+      <div class=item><p id=titel>//alignment lines within the container</p>
+      <p>Align-content: normal || flex-start || flex-end || center || space-between || space-around || space-evenly || stretch</div>
+      <div class=item></div>
+    </div>
+    
+    <div class="container2">
+      <div class=item>item properties</div>
+      <div class=item><p id=titel>//order of the (flex) html-elements</p>
+        <p>order: intiger (default: 0)</p>
+      </div>
+      <div class=item><p id=titel>//ability to grow if necessary</p>
+        <p>flex-grow: integer (default: 0)<p>
+      </div>
+      <div class=item><p id=titel>Ability to shrink if necessary<p>
+        <p>flex-shrink: positive integer (default: 0)</p>
+      </div>
+      <div class=item><p id=titel>Defines default size of the item</p>
+        <p>flex-basis: lenght || keyword (default: auto)
+      </div>
+      <div class=item><p id=titel>//shorthanded (grow shrink basis)</p>
+        <p>flex: flex-growth flex-shrink flex-basis (default: 0 1 auto)</p>
+      </div>
+      <div class=item><p id=titel>//override default alignment from align-items</p>
+        <p>align-self: auto || flex-start || flex-end || center || baseline || stretch
+      </div>
+      <div class=item></div>
+      <div class=item></div>
+    </div>
+</body>
+</html>
