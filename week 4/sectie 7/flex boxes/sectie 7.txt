@@ -1,0 +1,1 @@
+2. het verandert van groote ligt aan hoe groot het sherm is want het default is 300px

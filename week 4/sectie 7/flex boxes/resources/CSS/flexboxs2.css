@@ -1,0 +1,46 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-direction: column-reverse;
+  border: solid 3px black;
+  width: 200px;
+}
+
+.flex_child {
+  border: solid 2px greenyellow;
+  flex-shrink: 1;
+  flex-grow: 1;
+  height: 30px;
+}
+
+#first {
+  background-color: yellow;
+  width: 10px;
+  height: 10px;
+  align-self: flex-end;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+  width: 10px;
+}
+
+#fourth {
+  background-color: purple;
+  width: 10px;
+  height: 20px;
+  align-self: center;
+}
+

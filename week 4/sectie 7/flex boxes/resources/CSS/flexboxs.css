@@ -1,0 +1,885 @@
+/* eerste twee opdrachten */ /*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+.flex-container {
+  display: flex;
+  border: solid 3px black
+}
+
+.flex_child {
+  flex-basis: 300px;
+  border: solid 2px greenyellow;
+}
+
+*/
+
+
+
+/* scroll tirth */ /*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+display: flex;
+overflow: scroll;
+border: solid 3px black
+}
+
+.flex_child {
+width: 500px;
+height: 200px;
+border: solid 2px greenyellow;
+flex-shrink: 0;
+}
+
+*/
+
+/* 4th */ /*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+display: flex;
+flex-wrap: wrap;
+border: solid 3px black
+}
+
+.flex_child {
+width: 300px;
+height: 200px;
+border: solid 2px greenyellow;
+flex-shrink: 0;
+}
+*/
+/* opdracht tot 7 */
+
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  vertical-align: middle;
+  text-align: center;
+  justify-content: center;
+}
+
+.flex-container {
+display: flex;
+flex-wrap: wrap;
+border: solid 3px black;
+width: 1600px;
+vertical-align: middle;
+}
+
+.flex_child {
+width: 300px;
+height: 200px;
+border: solid 2px greenyellow;
+flex-shrink: 0;
+vertical-align: middle;
+padding: 60px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+/* opdracht tot 12 */
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  vertical-align: middle;
+  text-align: center;
+  justify-content: center;
+}
+
+.flex-container {
+  position: relative;
+display: flex;
+flex-wrap: wrap;
+border: solid 3px black;
+width: 70%;
+left: 15%;
+}
+
+.flex_child {
+width: 200px;
+height: 50px;
+border: solid 2px greenyellow;
+flex-shrink: 0;
+vertical-align: middle;
+padding: 15px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 3px black;
+  width: 70%;
+  left: 15%;
+  height: 400px;
+  justify-items: center;
+  justify-content: center;
+  align-items:flex-start;
+  align-content: flex-start;
+}
+
+.flex_child {
+  width: 200px;
+  height: 50px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 10px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  
+}
+
+.flex-container {
+  position: relative;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 3px black;
+  width: 70%;
+  left: 15%;
+  height: 500px;
+  align-items:center ;
+
+}
+
+.flex_child {
+  width: 200px;
+  height: 50px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 15px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 3px black;
+  width: 70%;
+  left: 15%;
+  height: 400px;
+  justify-items: center;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.flex_child {
+  width: 200px;
+  height: 50px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 10px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
+  border: solid 3px black;
+  width: 70%;
+  left: 15%;
+  height: 400px;
+  justify-items: center;
+  justify-content: center;
+  align-items:flex-end
+}
+
+.flex_child {
+  width: 200px;
+  height: 50px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 10px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  border: solid 3px black;
+  width: 70%;
+  left: 15%;
+  height: 400px;
+  justify-content: space-between;
+  align-content: stretch;
+  align-items: stretch;
+
+}
+
+.flex_child {
+  width: 200px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 10px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  border: solid 3px black;
+  width: 70%;
+  left: 15%;
+  height: 400px;
+  justify-content: space-between;
+  align-content: stretch;
+  align-items: stretch;
+
+}
+
+.flex_child {
+  width: 200px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 10px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+  border: solid 3px black;
+  width: 70%;
+  left: 15%;
+  height: 400px;
+  justify-content: space-between;
+  align-content: stretch;
+  align-items: stretch;
+
+}
+
+.flex_child {
+  width: 200px;
+  height: 150px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 50px;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: solid 3px black;
+}
+
+.flex_child {
+  width: 300px;
+  height: 150px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 50px;
+  flex-grow: 1;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+  height: 50px;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+  height: 50px;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border: solid 3px black;
+}
+
+.flex_child {
+  width: 300px;
+  height: 150px;
+  border: solid 2px greenyellow;
+  flex-shrink: 0;
+  padding: 50px;
+  flex-grow: 1;
+}
+
+#first {
+  background-color: yellow;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+  height: 50px;
+  width: 350px;
+}
+#fifth {
+  background-color: yellow;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+  height: 50px;
+  width: 350px;
+}
+
+#nineth {
+  background-color: yellow;
+}
+#tenth{
+  background-color: red;
+}
+*/
+/*
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.flex-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border: solid 3px black;
+  width: 200px;
+}
+
+.flex_child {
+  height: 150px;
+  width: 200px;
+  border: solid 2px greenyellow;
+  flex-shrink: 1;
+  padding: 50px;
+  flex-grow: 1;
+}
+
+#first {
+  background-color: yellow;
+  width: 300px;
+  flex-shrink: 0;
+}
+
+#second {
+  background-color: red;
+}
+
+#third {
+  background-color: blue;
+}
+
+#fourth {
+  background-color: purple;
+}
+#fifth {
+  background-color: yellow;
+  width: 300px;
+  flex-shrink: 0;
+}
+
+#sixsth {
+  background-color: red;
+}
+
+#seventh {
+  background-color: blue;
+}
+
+#eigth {
+  background-color: purple;
+}
+
+#nineth {
+  background-color: yellow;
+  width: 300px;
+  flex-shrink: 0;
+}
+#tenth{
+  background-color: red;
+}
+*/
