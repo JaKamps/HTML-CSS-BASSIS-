@@ -1,0 +1,88 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+.container {
+  width: 600px;
+  margin: 10px auto ;
+  display: grid;
+  border: solid 3px black;
+  grid-template-rows: repeat(7,100px);
+  grid-template-columns: repeat(6, 100px);
+  background-color: rgb(255, 137, 220);
+}
+
+.item {
+  justify-content: center;
+  align-items: center;
+}
+.item--2{
+    background-color: pink;
+}
+.item--1{
+    background-color: red;
+    grid-area: 1 / 2 / 3 / 4;
+}
+.item--3{
+    background-color: purple;
+    grid-area: 1 / 5 / 2 / 7 ;
+}
+.item--4{
+    background-color: blue;
+}
+.item--5{
+    background-color: lightblue;
+}
+.item--6{
+    background-color: yellow;
+}
+.item--7{
+    background-color: green;
+    grid-area: 2 / 4 / 3 / 7;
+}
+.item--8{
+  background-color: pink;
+}
+.item--9{
+  background-color: blue;
+  grid-area: 3/5/4/6;
+}
+.item--10{
+  background-color: red;
+  grid-area: 3 / 3 / 5 / 5 ;
+}
+.item--11{
+  background-color: green;
+  grid-area: 5/1/6/4;
+}
+.item--12{
+  background-color: rgb(180, 252, 255);
+  grid-area: 3 / 6 / 3 / 7;
+}
+.item--13{
+  background-color: yellow;
+}
+.item--14{
+  background-color: pink;
+}
+.item--15{
+  background-color: red;
+  grid-area: 5/4/7/6;
+}
+.item--16{
+  background-color: blue;
+}
+.item--17{
+  background-color: purple;
+  grid-area: 6/1/7/3;
+}
+.item--18{
+  background-color: purple;
+  grid-area: 4/1/5/3;
+}
+.item--19{
+  background-color: green;
+  grid-area: 7/1/8/4;
+}
