@@ -1,0 +1,23 @@
+1. css grid is een vervanger voor float
+2. Grid is een twee dimension terwijl felx box een dimensie is
+3. display: grid; 
+4. de container is waar de items in staan en de items is de content 
+5. grid lines zijn de lijnen tussen de items
+6. a area is multible cells together
+7. the fr unit lets items grow within the container if you have 4 items and all of them have fr they all will grow to 25% of the container but if you have 3 items two have 1fr and 1 has 2fr then the one with 2fr will grow twice as much as the ones with 1fr so the 2fr one will grow to 50% while the other two will grow to 25% each
+8. 400px
+9. 600px
+10. 400 200 400
+11. 5 2 3
+12. ja want twee 1fr is het zelfde als 2x 50%
+13. negetive 1
+14. het begint in de 3de collumn en eindigt 2 verder span betekent dan het 2 column;s/ rows verder gaat
+15. a
+16. a
+17. explicite grid is wat specifiek is neer gezet
+ and implicite is het auto matishce
+18. grid-auto-rows maak auto matisch rows
+19. max-content bepaald wat het maximale groote is van een item
+20. mon-content is wat het kleinste groote is van een item
+21. minmax bepaald wat het maximaale en minimalen groote is
+ 
