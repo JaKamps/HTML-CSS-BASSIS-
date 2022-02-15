@@ -1,0 +1,28 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+}
+
+  
+
+.container {
+  width: 100%;
+  height: 100%;
+  margin: 10px auto ;
+  display: grid;
+  border: solid 3px black;
+  grid-auto-flow: dense;
+  grid-template-rows: repeat(20,50px);
+  grid-template-columns: repeat(2, 50%);
+  background-color: rgb(66, 255, 107);
+}
+
+#pink{
+  background-color: pink;
+}
+
+.item{
+  border:dashed 1px black;
+  margin: 1px;
+}

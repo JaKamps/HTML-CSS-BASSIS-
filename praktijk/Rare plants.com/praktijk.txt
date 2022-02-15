@@ -1,0 +1,61 @@
+lijst met info {
+https://www.floweraura.com/blog/rare-plants-list-in-world
+
+}
+
+dag 1 {
+ wat er goed ging: het plannen ging goed
+wat beter kan: is niet tijdens andere lessen er mee bezig zijn
+
+waar gaat de website over:
+
+over planten? {
+	over wat voor planten:
+	wat voor toon informatief of geld verzamelen:
+	
+
+informative over planten:
+}
+
+content {
+een balk aan de bovenkant als menu:
+
+een footer met neppe gegevens:
+
+een home pagina met wat gegevens {
+	dat het over 10 rare planten gaat;
+	a preview van sommige planten;
+	
+}
+
+een pagina met photo's van alle planten {
+	alle rare plants als photo's
+	alle photo's zijn links naar pagina's voor de plant;
+	de photo's worden een klein beetje grooter;
+}
+	     
+
+plant pagina {                X too much work not enough time  and not enough info per plant   sending it to wiki instead
+per plant een informatie pagina;
+een photo van de plant;
+plant info {
+  locatie;
+  groote;
+  familie;
+  extra info per plant;
+ }
+}
+
+day 2 {
+
+ik heb snell gewerkt en de pagina's af in een paar uur
+
+ik had moeten bedenken wat tedoen voor de derde website
+}
+
+evaluatie {
+	voor twee dagen is het well een redelijke website ik had all de bloemen well een pagina kunnen geven als ik er meer tijd in stopde maar met het weinige informatie over sommige bloemen had ik er voor gekozen om dit als derde pagina er implaats van temaken
+ de website is voledig responsive een alle photo's in de gallery gaan naar de wiki toe. de website geeft ook aan waar ik de bloemen vandaan heb
+
+
+

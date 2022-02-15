@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    overflow-x: hidden;
+    background-color: #336600;
+}
+
+.topnav {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(50px, auto);
+    background-color: springgreen;
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+}
+.main-text {
+    color: springgreen;
+    text-align: center;
+    font-size: 100px;
+    padding-bottom: 10px;
+}
+.home, .plants, .extra-info {
+    font-size: 50px;
+    border-bottom: 3px black solid;
+    text-decoration: none;
+    -moz-text-decoration: none;
+    color: #006400;
+    cursor: url('img/material-bush-cursor-pack.png'), auto;
+}
+.home:hover, .plants:hover, .extra-info:hover {
+    background-color: #008600;
+}
+.plants{
+    border-left: 1.5px black solid;
+    border-right: 1.5px black solid;
+}
+.home {
+    border-right: 1.5px black solid;
+}
+.extra-info {
+    border-left: 3px black solid;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.item {
+    flex-grow: 1;
+    object-fit: cover;
+}
+.item img {
+    width: 100%;
+    height: 100%;
+}
+.item:hover, .flower{
+    cursor: url('img/material-bush-cursor-pack.png'), auto;
+    transform: scale(1.02);
+    -webkit-transform: scale(1.02);
+    -moz-transform: scale(1.02);
+    -ms-transform: scale(1.02);
+    -o-transform: scale(1.02);;
+}
+.flower{
+    position: absolute;
+    top: 0;
+    left: 10%;
+    background: black;
+    color: white;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: visibility 0s, opacity 0.5s linear; 
+    transition: visibility 0s, opacity 0.5s linear;
+}
+.item:hover .flower{
+    visibility: visible;
+    opacity: 0.7;
+    font-size: 25px;
+}
